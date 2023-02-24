@@ -17,4 +17,4 @@ function printArguments(...args) {
     }
 }
 
-printArguments(1, 2, 3, 4, "rana", 6); //you can add infinite variables here.
+printArguments(1, 2, 3, 4, "rana", 6); //You can add infinite variables here.
